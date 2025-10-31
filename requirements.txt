@@ -1,9 +1,9 @@
-mysql-connector-python
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-flask
-pickle
+mysql-connector-python==8.0.33
+pandas==2.1.4
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+flask==3.0.3
+pickle-mixin==1.0.2
 pytest
